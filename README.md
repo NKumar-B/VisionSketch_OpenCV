@@ -37,7 +37,7 @@ python -m venv .venv
 ### 3. Install Dependencies
 
 ```bash
-pip install opencv-python mediapipe numpy
+pip install -r requirements.txt  #see the requirements.txt file to install the required libraries
 
 ```
 
