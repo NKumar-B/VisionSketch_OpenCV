@@ -80,8 +80,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ##  Acknowledgments
 
-* Powered by [Google MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide).
-*  **Download Link**: [Google MediaPipe Model Garden](https://www.google.com/search?q=https://developers.google.com/mediapipe/solutions/vision/hand_landmarker%23models)
+* **[Google MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)**: For providing the robust Face Landmarker Tasks API and pre-trained `.task` models.
+* **[OpenCV (Open Source Computer Vision Library)](https://opencv.org/)**: For the powerful real-time image processing and visualization tools.
+* **[The COCO Dataset Team](https://cocodataset.org/)**: For their foundational work in standardizing computer vision training data.
+* **[NumPy](https://numpy.org/)**: For the efficient numerical processing required for coordinate mapping.
 
 ---
 
