@@ -21,8 +21,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/NKumar-B/VisionSketch_OpenCV/AirTrace.git
-cd AirTrace
+git clone https://github.com/NKumar-B/VisionSketch_OpenCV.git
+cd VisionSketch_OpenCV
 
 ```
 
@@ -75,3 +75,13 @@ The application follows a modular computer vision pipeline:
 ##  License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+##  Acknowledgments
+
+* Powered by [Google MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide).
+*  **Download Link**: [Google MediaPipe Model Garden](https://www.google.com/search?q=https://developers.google.com/mediapipe/solutions/vision/hand_landmarker%23models)
+
+---
+
