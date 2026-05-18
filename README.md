@@ -1,7 +1,7 @@
 
 
 # AirTrace: Gesture-Controlled Spatial Sketching
-
+ 
 **AirTrace** is a real-time computer vision application that transforms your hand into a digital paintbrush. By leveraging **Google MediaPipe’s Tasks API** and **OpenCV**, the system tracks hand landmarks with high precision, allowing users to draw in a 3D-like digital space through simple gestures.
 
 <img width="798" height="632" alt="AirTrace" src="https://github.com/user-attachments/assets/55d68d46-1ba2-4326-8185-92f412dfecfb" />
