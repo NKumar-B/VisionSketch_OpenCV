@@ -86,5 +86,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 * **[The COCO Dataset Team](https://cocodataset.org/)**: For their foundational work in standardizing computer vision training data.
 * **[NumPy](https://numpy.org/)**: For the efficient numerical processing required for coordinate mapping.
 
+
 ---
 
