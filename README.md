@@ -6,7 +6,7 @@
 
 <img width="798" height="632" alt="AirTrace" src="https://github.com/user-attachments/assets/55d68d46-1ba2-4326-8185-92f412dfecfb" />
 
-## Features
+## Features 
  
 * **Pinch-to-Draw**: Uses a natural "pinch" gesture (connecting thumb and index finger) to activate the digital ink.
 * **Persistent Canvas**: Drawings are maintained on a dedicated transparent layer overlaid on the live camera feed.
