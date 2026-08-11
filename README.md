@@ -13,7 +13,7 @@
 * **Spatial UI**: Features an on-screen "RESET" button at the bottom-right corner for clearing the canvas.
 * **High-Quality Rendering**: Uses anti-aliasing to ensure smooth, professional-looking strokes even at high speeds.
 * **Optimized Performance**: Built with the MediaPipe 2026 Tasks API for low-latency tracking on modern Python environments.
- 
+  
 
 ---
 
